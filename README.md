@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/simswaper/SwiatWedlugKiepskich_Downloader/blob/main/img/logo.png?raw=true" alt="Logo" />
+  <img src="https://github.com/simswaper/NieznanyNumer_Bomber/blob/main/img/logo.png?raw=true" alt="Logo" />
   <h1>Nieznany-Numer Bomber</h1>
 </div>
 
