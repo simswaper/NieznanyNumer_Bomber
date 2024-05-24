@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <h1>Już niedługo!</h1>
+  <h1>Nieznany-Numer Bomber</h1>
 </div>
